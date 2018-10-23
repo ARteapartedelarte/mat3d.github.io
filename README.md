@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# math3dweb
+Website code
 
-You can use the [editor on GitHub](https://github.com/mat3d/mat3d.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Based on [Start Bootstrap Agency Jekyll theme](https://github.com/y7kim/agency-jekyll-theme) and [FPGAwars](https://github.com/FPGAwars/fpgawars.github.io)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Development
 
-### Markdown
+Execute `jekyll serve` to run the website locally.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Structure
 
-```markdown
-Syntax highlighted code block
+* `_content`: contains the keys and links of the Projects-Tutorials-Workshops-Talks.
+* `_data\strings.yml`: contains all the strings translated (en, es).
+* `img`: contains all the images. It is recommended to use the size 600x510px:
 
-# Header 1
-## Header 2
-### Header 3
+Projects & Tutorials: `convert input.png -resize 600 -background "rgba(0,0,0,0)" -gravity center -extent 600x510 output.png`
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mat3d/mat3d.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Workshops & Talks: `convert input.png -resize 550 -background "rgba(0,0,0,0)" -gravity center -extent 600x510 output.png`

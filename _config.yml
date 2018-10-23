@@ -1,1 +1,43 @@
-theme: jekyll-theme-cayman
+# Site settings
+
+url: mat3d.github.io
+baseurl: ""
+
+
+title: Matemáticas 3d
+email: rodriguezjasoc@iespedrocerrada.org
+description: Matemáticas a través del modelado en 3d
+
+# Team names, titles and social links
+people:
+
+  - name: Pablo Beltrán
+    social:
+
+      - title: twitter
+        url: https://twitter.com/pbeltranp
+      
+
+  - name: Carlos Rodríguez
+    social:
+
+      - title: google-plus
+        url: https://plus.google.com/u/1/106926421917771551298
+      - title: github
+        url: https://github.com/crdguez
+
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Collections
+collections:
+  - content
+
+# Menu
+menu:  	
+  - intro
+  - ttm
+

@@ -1,0 +1,183 @@
+
+menu:
+  en: Menu
+  es: Menú
+
+intro-phrase:
+  en: Matemáticas y modelado 3D
+  es: Matemáticas y modelado 3D
+
+about:
+  es: Motivación y objetivos
+
+about-desc:
+  es: Quiénes somos y dónde surge el proyecto
+
+intro:
+  es: Intro
+
+intro-desc:
+  es: Sobre nosotros y sobre el proyecto
+
+free-software:
+  en: Free Software
+  es: Software Libre
+
+free-software-desc:
+  en: You can use, study, distribute and improve our code, always released under GPL
+  es: Puedes usar, estudiar, distribuir y mejorar nuestro código, liberado siempre mediante GPL
+
+open-hardware:
+  en: Open Hardware
+  es: Hardware libre
+
+open-hardware-desc:
+  en: Our boards and hardware description modules are Open and created with Open Tools
+  es: Nuestras placas y módulos de hardware son Libres y están creados con Herramientas Libres
+
+technological-heritage:
+  en: Technological Heritage
+  es: Patrimonio Tecnológico
+
+technological-heritage-desc:
+  en: All our work belongs to everybody and is part of the Technological Heritage
+  es: Todo nuestro trabajo es de todos y forma parte del Patrimonio Tecnológico de la Humanidad
+
+academicas:
+  en: CIT
+  es: CIT
+
+ttm:
+ en: TTM
+ es: TTM
+
+ttm-desc:
+ es: Taller de talento matemático
+
+chal1:
+ en: Challenge 1
+ es: Desafío 1
+
+chal1-desc:
+ en: Challenge 1
+ es: Modela un spinner mientras aprendes
+
+
+academicas-desc:
+  en: Ciencias y Tecnología
+  es: Ciencias y Tecnología
+
+ejercicios:
+  en: Ejercicios
+  es: Ejercicios
+
+ejercicios-desc:
+  en: Ejercicios de los apuntes con soluciones
+  es: Ejercicios de los apuntes con soluciones
+
+resumenes:
+  en: Resúmenes
+  es: Resúmenes
+
+resumenes-desc:
+  en: Resúmenes de las diferentes unidades
+  es: Resúmenes de las diferentes unidades
+
+libro:
+  en: Apuntes
+  es: Apuntes
+
+libro-desc:
+  en: Apuntes de la asignatura
+  es: Apuntes de la asignatura
+  
+libro2:
+  en: Libro
+  es: Libro
+
+libro2-desc:
+  en: Libro de la asignatura
+  es: Libro de la asignatura
+
+solucionario:
+  en: Solucionario
+  es: Solucionario
+
+solucionario-desc:
+  en: Soluciones a los ejercicios del libro
+  es: Soluciones a los ejercicios del libro
+
+
+programacion:
+  en: Programación
+  es: Programación
+
+programacion-desc:
+  en: Programación del curso
+  es: Programación del curso
+
+otros:
+  en: Otros
+  es: Otros
+
+otros-desc:
+  en: Otros recursos
+  es: Otros recursos
+
+tutoria:
+  en: Tutoría
+  es: Tutoría
+
+tutoria-desc:
+  en: Documentación de Tutoría 
+  es: Documentación de Tutoría
+
+blockscad:
+  en: Tutorial de Blockscad
+  es: Tutorial de Blockscad
+
+blockscad-desc:
+  en: Tutorial de Blockscad
+  es: Tutorial de Blockscad
+
+
+aplicadas:
+  en: CSH
+  es: CSH
+
+aplicadas-desc:
+  en: Ciencias Sociales
+  es: Ciencias Sociales
+
+miscelanea:
+  en: Miscelánea
+  es: Miscelánea
+
+miscelanea-desc:
+  en: Otros contenidos
+  es: Otros contenidos
+
+team:
+  en: Profesorado
+  es: Profesorado
+
+team-desc:
+  en: Conoce a los profesores
+  es: Conoce a los profesores
+
+member-position:
+  en: Math Teacher
+  es: Profesor de Matemáticas
+
+
+contribute:
+  en: Contribute
+  es: Contribuye
+
+contribute-desc:
+  en: Send your doubts, solutions, suggestions, collaborate on projects, ...
+  es: Envía tus dudas, soluciones, sugerencias, colabora en los proyectos, ...
+
+google-group:
+  en: Google Group
+  es: Grupo de Google
