@@ -43,9 +43,6 @@ technological-heritage-desc:
   en: All our work belongs to everybody and is part of the Technological Heritage
   es: Todo nuestro trabajo es de todos y forma parte del Patrimonio Tecnológico de la Humanidad
 
-academicas:
-  en: CIT
-  es: CIT
 
 ttm:
  en: TTM
@@ -63,62 +60,15 @@ chal1-desc:
  es: Modela un spinner mientras aprendes
 
 
-academicas-desc:
-  en: Ciencias y Tecnología
-  es: Ciencias y Tecnología
+chal2:
+ en: Challenge 2
+ es: Desafío 2
 
-ejercicios:
-  en: Ejercicios
-  es: Ejercicios
+chal2-desc:
+ en: Challenge 2
+ es: Modela una estrella mudejar
 
-ejercicios-desc:
-  en: Ejercicios de los apuntes con soluciones
-  es: Ejercicios de los apuntes con soluciones
-
-resumenes:
-  en: Resúmenes
-  es: Resúmenes
-
-resumenes-desc:
-  en: Resúmenes de las diferentes unidades
-  es: Resúmenes de las diferentes unidades
-
-libro:
-  en: Apuntes
-  es: Apuntes
-
-libro-desc:
-  en: Apuntes de la asignatura
-  es: Apuntes de la asignatura
-  
-libro2:
-  en: Libro
-  es: Libro
-
-libro2-desc:
-  en: Libro de la asignatura
-  es: Libro de la asignatura
-
-solucionario:
-  en: Solucionario
-  es: Solucionario
-
-solucionario-desc:
-  en: Soluciones a los ejercicios del libro
-  es: Soluciones a los ejercicios del libro
-
-
-programacion:
-  en: Programación
-  es: Programación
-
-programacion-desc:
-  en: Programación del curso
-  es: Programación del curso
-
-otros:
-  en: Otros
-  es: Otros
+a  es: Otros
 
 otros-desc:
   en: Otros recursos
@@ -139,15 +89,6 @@ blockscad:
 blockscad-desc:
   en: Tutorial de Blockscad
   es: Tutorial de Blockscad
-
-
-aplicadas:
-  en: CSH
-  es: CSH
-
-aplicadas-desc:
-  en: Ciencias Sociales
-  es: Ciencias Sociales
 
 miscelanea:
   en: Miscelánea
