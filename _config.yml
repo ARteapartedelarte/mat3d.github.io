@@ -3,13 +3,15 @@
 url: mat3d.github.io
 baseurl: ""
 
-plugins:
-  - jekyll-seo-tag
 
 
 title: Matemáticas y modelado 3d
 email: rodriguezjasoc@iespedrocerrada.org
 description: Matemáticas a través del modelado en 3d
+
+plugins:
+  - jekyll-seo-tag
+
 
 # Team names, titles and social links
 people:
