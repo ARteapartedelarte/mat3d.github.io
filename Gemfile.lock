@@ -38,7 +38,7 @@ GEM
       jekyll-redirect-from (= 0.12.1)
       jekyll-relative-links (= 0.4.1)
       jekyll-sass-converter (= 1.5.0)
-      jekyll-seo-tag (= 2.3.0)
+      jekyll-seo-tag (= 2.5.0)
       jekyll-sitemap (= 1.1.1)
       jekyll-swiss (= 0.4.0)
       jekyll-theme-architect (= 0.1.0)
