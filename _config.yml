@@ -16,14 +16,16 @@ plugins:
 # Team names, titles and social links
 people:
 
-  - name: Pablo Beltrán
+  - name: Pablo Beltrán-Pellicer
     social:
 
       - title: twitter
         url: https://twitter.com/pbeltranp
+      - title: web
+        url: http://personal.unizar.es/pbeltran/
       
 
-  - name: Carlos Rodríguez
+  - name: Carlos Rodríguez Jaso
     social:
 
       - title: google-plus
