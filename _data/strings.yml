@@ -8,7 +8,7 @@ intro-phrase:
   es: Matemáticas y modelado 3D
 
 about:
-  es: Motivación y objetivos
+  es: Sobre el proyecto
 
 about-desc:
   es: Quiénes somos y dónde surge el proyecto
@@ -57,7 +57,7 @@ chal1:
 
 chal1-desc:
  en: Challenge 1
- es: Modela un spinner mientras aprendes
+ es: Aprende lo básico de BlocksCAD
 
 
 chal2:
