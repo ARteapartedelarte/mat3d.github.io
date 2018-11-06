@@ -19,6 +19,12 @@ intro:
 intro-desc:
   es: Información del proyecto
 
+wiki:
+  es: Wiki
+
+wiki-desc:
+  es: Wiki con la documentación de actividades
+
 free-software:
   en: Free Software
   es: Software Libre
