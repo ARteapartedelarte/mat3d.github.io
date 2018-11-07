@@ -1,4 +1,11 @@
 
+presentacion:
+  es: Presentación
+
+
+presentacion-desc:
+  es: Presentación del taller
+
 githubrepo:
   es:  Repositorio
 
