@@ -1,4 +1,10 @@
 
+githubrepo:
+  es:  Repositorio
+
+githubrepo-desc:
+  es:  Accede a toda la documentación del proyecto
+
 menu:
   en: Menu
   es: Menú
@@ -105,12 +111,12 @@ miscelanea-desc:
   es: Otros contenidos
 
 team:
-  en: Profesorado
-  es: Profesorado
+  en: Team
+  es: Equipo
 
 team-desc:
-  en: Conoce a los profesores
-  es: Conoce a los profesores
+  en: Team
+  es: Conoce a las personas involucradas en el proyecto
 
 member-position:
   en: Math Teacher
